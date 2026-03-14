@@ -37,6 +37,12 @@ Heart Disease Dataset: This data set dates from 1988 and consists of four databa
 - Tree-based models captured nonlinear relationships more effectively than linear models.
 - Clinical and lifestyle variables such as chest pain type, exercise angina, and ST slope showed strong predictive importance.
 
+## Model Performance Comparison
+
+The following figure compares the performance of the evaluated machine learning models based on accuracy, precision, and recall using 12-fold cross validation.
+
+![Model Performance](images/model_performance_comparison.png)
+
 ## Practical Value
 
 This project demonstrates how machine learning can support early risk stratification and decision-support in healthcare settings by identifying patterns associated with heart disease risk.
