@@ -18,6 +18,9 @@ This project builds multiple machine learning models to predict heart disease ri
 5. Model evaluation
 
 ## Dataset
+
+The dataset used in this project is publicly available on Kaggle.
+
 Heart Disease Dataset
 
 ## Tools
